@@ -1,0 +1,56 @@
+dl{
+    padding: 0;
+    width: 100%;
+}
+
+dt{
+    margin: 0;
+    vertical-align: middle;
+    padding: 1px;
+}
+
+dd{
+    margin: 0;
+    vertical-align: middle;
+    padding: 1px;
+}
+
+dd p{
+    vertical-align: middle;
+    line-height: 25px;
+}
+
+dt label{
+    vertical-align: middle;
+    line-height: 25px;
+}
+
+dt.twocolumn{
+    clear: left;
+    float: left;
+    width: 267px;
+    display: block;
+}
+
+dd.twocolumn{
+    display: block;
+    overflow: visible;
+}
+
+body{
+    color: blue;
+    font: 12px Arial;
+}
+
+.paragraph{
+    padding: 5px 0px 5px 0px;
+    overflow: auto;
+    display: block;
+    clear: both;
+}
+
+.title{
+    font-size: 18px;
+    color: ROYALBLUE;
+    padding: 5px 0px 5px 0px;
+}
